@@ -1,4 +1,12 @@
-## Hi there 👋
+A developer who is interested in distributed systems with a special focus on data storage systems :wrench:
+
+I am currently a maintainer of the [Linux Foundation Edge Nexoedge project][lf_edge_nexoedge_project_space] :star2:. 
+Nexoedge is a reliable and storage-efficient multi-cloud storage system with network-coding-inspired data repair optimization. It goal is to transparently connect edge applications to a reliable data storage pool over multiple private/public clouds, e.g., for long-term data archive.
+
+I also worked on a few research projects on storage system reliability and performance during my graduate studies :books:. The project list is available at [my personal website][my_website].
+
+[lf_edge_nexoedge_project_space]: https://wiki.lfedge.org/display/NEX/
+[my_website]: https://helenchw.github.io
 
 <!--
 **helenchw/helenchw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
