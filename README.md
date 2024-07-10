@@ -5,7 +5,7 @@ Nexoedge is a reliable and storage-efficient multi-cloud storage system with net
 
 I also worked on a few research projects on storage system reliability and performance during my graduate studies :books:. The project list is available at [my personal website][my_website].
 
-In my spare time, I like to exercise :running_woman: and do light readings :book:. I also take part in volunteer service in hope to meet different people in the community and contribute to the community :people_holding_hands:.
+In my spare time, I like to exercise :running_woman: and do light readings :book:. I also take part in volunteer service in the hope to meet different people in the community and contribute to the community :people_holding_hands:.
 
 [lf_edge_nexoedge_project_space]: https://wiki.lfedge.org/display/NEX/
 [my_website]: https://helenchw.github.io
